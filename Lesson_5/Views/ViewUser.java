@@ -1,8 +1,8 @@
-import personal.controllers.UserController;
-import personal.model.Fields;
-import personal.model.User;
-import personal.utils.PhoneException;
-import personal.utils.Validate;
+import Lesson_5.Controllers.UserController;
+import Lesson_5.Model.Fields;
+import Lesson_5.Model.User;
+import Lesson_5.Utils.PhoneException;
+import Lesson_5.Utils.Validate;
 
 import java.util.Scanner;
 

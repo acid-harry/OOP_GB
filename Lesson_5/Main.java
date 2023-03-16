@@ -1,10 +1,10 @@
-import personal.controllers.UserController;
-import personal.model.FileOperation;
-import personal.model.FileOperationImpl;
-import personal.model.Repository;
-import personal.model.RepositoryFile;
-import personal.utils.Validate;
-import personal.views.ViewUser;
+import Lesson_5.Controllers.UserController;
+import Lesson_5.Model.FileOperation;
+import Lesson_5.Model.FileOperationImpl;
+import Lesson_5.Model.Repository;
+import Lesson_5.Model.RepositoryFile;
+import Lesson_5.Utils.Validate;
+import Lesson_5.Views.ViewUser;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-import personal.model.Fields;
-import personal.model.Repository;
-import personal.model.User;
-import personal.utils.Validate;
+import Lesson_5.Model.Fields;
+import Lesson_5.Model.Repository;
+import Lesson_5.Model.User;
+import Lesson_5.Model.Validate;
 
 import java.util.List;
 
