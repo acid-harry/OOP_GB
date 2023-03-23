@@ -1,10 +1,10 @@
 import Controllers.AdapterController;
 import Controllers.IController;
 import Controllers.NoteController;
-import loggers.ILogger;
-import loggers.Logger;
-import model.*;
-import views.*;
+import Loggers.ILogger;
+import Loggers.Logger;
+import Model.*;
+import Views.*;
 
 public class Main {
     public static void main(String[] args) {

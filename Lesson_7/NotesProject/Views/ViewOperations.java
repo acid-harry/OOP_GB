@@ -1,6 +1,6 @@
-import controllers.IController;
-import model.Fields;
-import model.Note;
+import Controllers.IController;
+import Model.Fields;
+import Model.Note;
 
 import java.util.List;
 import java.util.Scanner;
